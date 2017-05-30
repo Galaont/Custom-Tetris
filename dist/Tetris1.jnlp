@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Tetris1.jnlp">
+  <information>
+    <title>Tetris1</title>
+    <vendor>Emre</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Tetris1.jar" size="97357523" download="eager" />
+  </resources>
+  <application-desc main-class="Tetris1.Tetris1"  name="Tetris1" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
